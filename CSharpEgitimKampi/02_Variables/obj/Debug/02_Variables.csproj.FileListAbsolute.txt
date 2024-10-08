@@ -1,0 +1,7 @@
+C:\Users\doguk\Desktop\doğukan\C# EĞİTİM KAMPI MURAT YÜCEDAĞ\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\doguk\Desktop\doğukan\C# EĞİTİM KAMPI MURAT YÜCEDAĞ\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\doguk\Desktop\doğukan\C# EĞİTİM KAMPI MURAT YÜCEDAĞ\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\doguk\Desktop\doğukan\C# EĞİTİM KAMPI MURAT YÜCEDAĞ\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\doğukan\C# EĞİTİM KAMPI MURAT YÜCEDAĞ\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\doğukan\C# EĞİTİM KAMPI MURAT YÜCEDAĞ\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\doguk\Desktop\doğukan\C# EĞİTİM KAMPI MURAT YÜCEDAĞ\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb

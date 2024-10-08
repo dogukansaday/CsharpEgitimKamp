@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doguk\\Desktop\\do\u011Fukan\\C# E\u011E\u0130T\u0130M KAMPI MURAT Y\u00DCCEDA\u011E\\CSharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754B8911-1C11-4BDD-B512-6344F917DF26}|02_Variables\\02_Variables.csproj|c:\\users\\doguk\\desktop\\do\u011Fukan\\c# e\u011F\u0130t\u0130m kampi murat y\u00FCceda\u011F\\csharpegitimkampi\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754B8911-1C11-4BDD-B512-6344F917DF26}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\doguk\\Desktop\\do\u011Fukan\\C# E\u011E\u0130T\u0130M KAMPI MURAT Y\u00DCCEDA\u011E\\CSharpEgitimKampi\\02_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\doguk\\Desktop\\do\u011Fukan\\C# E\u011E\u0130T\u0130M KAMPI MURAT Y\u00DCCEDA\u011E\\CSharpEgitimKampi\\02_Variables\\Program.cs",
+              "RelativeToolTip": "02_Variables\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:13:55.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
